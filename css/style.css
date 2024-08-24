@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+}
+header{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    justify-content: center;
+    
+
+}
+.columna8{
+    display: flex;
+    align-items: center;
+}
+.row{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.filaHeader a{
+    
+    display: flex;
+    justify-content: center;
+    display: inline;
+}
+
+#columnaBotones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    
+}
+
